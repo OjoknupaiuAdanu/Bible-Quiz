@@ -1,0 +1,10 @@
+.quiz__index a{
+    background-color: rgb(112, 139, 202);
+    padding: 1rem;
+    text-decoration: none;
+    color: #fff;
+}
+.quiz__index{
+    margin: 1rem;
+    padding: 1rem;
+}
